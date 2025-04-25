@@ -12,9 +12,9 @@
  
  <h2 align="center" >ℹ️ Project info</h2>
 <div>
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Tun52299/Tun52299?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/Tun52299/Tun52299?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-  <!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/Tun52299/Tun52299?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TunsRaena/TunsRaena?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/TunsRaena/TunsRaena?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+  <!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/TunsRaena/TunsRaena?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
@@ -80,7 +80,7 @@
    <summary>📊 Skill Breakdown</summary>
    <br>
    <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tun52299&layout=compact&theme=radical" alt="Top Languages" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunsRaena&layout=compact&theme=radical" alt="Top Languages" />
    </p>
  </details>
  
@@ -90,22 +90,22 @@
  
  
  <p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun52299&theme=radical" alt="GitHub Profile Summary" width="75%" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TunsRaena&theme=radical" alt="GitHub Profile Summary" width="75%" />
  </p>
  
  <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=tun52299&show_icons=true&theme=radical" width="60%" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=TunsRaena&show_icons=true&theme=radical" width="60%" alt="GitHub Stats" />
  </p>
  
  
  <h2 align="center">📈 Contribution Odyssey</h2>
  
  <p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tun52299&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="90%" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TunsRaena&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="90%" />
  </p>
  
  <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=tun52299&theme=onedark&margin-w=10&no-bg=true" />
+   <img src="https://github-profile-trophy.vercel.app/?username=TunsRaena&theme=onedark&margin-w=10&no-bg=true" />
  </p>
  
  
@@ -139,7 +139,7 @@
 
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tun52299&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TunsRaena&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
